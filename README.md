@@ -1,4 +1,4 @@
-# ddos-attack
+# dos-attack
 # Instalación : 
 
  + pkg install git
